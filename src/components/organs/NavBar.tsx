@@ -38,7 +38,7 @@ const NavBar = () => {
         }}
       >
         Gostou do modelo? Entre em contato conosco para fazer o seu! Contato:{" "}
-        {`(12) 99669-3634`}
+        {`(12) 98810-7549`}
       </div>
       <nav
         className={`w-full lg:h-28 md:h-24 h-20 ${
